@@ -36,7 +36,7 @@ dog <- makeIcon(
   iconAnchorX = 31*215/230, iconAnchorY = 16
 )
 parrot <- makeIcon(
-  iconUrl = "/Users/avyny/Shiny:Plotly:Leaflet/pics/IMG_4459.JPG",
+  iconUrl = "https://github.com/avynychenko/Shiny-Plotly-Leaflet/blob/master/pics/IMG_4459.JPG",
   iconWidth = 31*215/230, iconHeight = 31,
   iconAnchorX = 31*215/230, iconAnchorY = 16
 )
